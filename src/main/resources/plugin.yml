@@ -1,0 +1,12 @@
+name: DaMa
+version: 1.0
+main: de.DaMa.DaMa.DaMa
+api-version: 1.17
+commands:
+  start:
+  pause:
+  stop:
+  saveInv:
+  loadInv:
+  team:
+    usage: /team [create | destroy | join | leave]
