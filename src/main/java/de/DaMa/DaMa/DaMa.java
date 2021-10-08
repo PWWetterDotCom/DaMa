@@ -9,7 +9,6 @@ public class DaMa extends JavaPlugin {
     public void onEnable() {
         getLogger().info("DaMa aktiviert!");
 
-        //Test :D
         //Bukkit.getPluginManager().registerEvents(new GameCommands(), this);
         Bukkit.getPluginManager().registerEvents(new InventorySave(), this);
 
